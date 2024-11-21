@@ -1,0 +1,628 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=6.7
+File Name: C:\Downloaded Web Sites\form\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=cyrillic&ver=6.7
+File Name: C:\Downloaded Web Sites\form\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=6.7
+File Name: C:\Downloaded Web Sites\form\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\form\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxMIzc.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOkCnqEu92Fr1MmgVxMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fABc9.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfABc9.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\form\s\roboto\v32\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\form\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://form/
+File Name: C:\Downloaded Web Sites\form\index.htm
+Content Type: text/html
+
+Uri: https://form/контакты/
+File Name: C:\Downloaded Web Sites\form\контакты\index.htm
+Content Type: text/html
+
+Uri: https://form/услуги/
+File Name: C:\Downloaded Web Sites\form\услуги\index.htm
+Content Type: text/html
+
+Uri: https://form/comments/feed/
+File Name: C:\Downloaded Web Sites\form\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://form/feed/
+File Name: C:\Downloaded Web Sites\form\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://form/github/
+File Name: C:\Downloaded Web Sites\form\github\index.htm
+Content Type: text/html
+
+Uri: https://form/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/css/widget-link-in-bio-base.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\css\widget-link-in-bio-base.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/css/widget-progress.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\css\widget-progress.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/images/placeholder.png
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\images\placeholder.png
+Content Type: image/png
+
+Uri: https://form/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow-rotate.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow-rotate.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-wobble-horizontal.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-vertical.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-wobble-vertical.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInDown.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInLeft.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInRight.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/animations/styles/zoomInDown.min.css?ver=3.25.8
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\animations\styles\zoomInDown.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.7
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\ocean-extra\assets\css\widgets.css
+Content Type: text/css
+
+Uri: https://form/wp-content/plugins/ocean-extra/assets/img/flickr.png
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\ocean-extra\assets\img\flickr.png
+Content Type: image/png
+
+Uri: https://form/wp-content/plugins/ocean-extra/assets/img/instagram-logo.png
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\ocean-extra\assets\img\instagram-logo.png
+Content Type: image/png
+
+Uri: https://form/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=6.7
+File Name: C:\Downloaded Web Sites\form\wp-content\plugins\ocean-extra\includes\widgets\js\flickr.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://form/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\drop-down-mobile-menu.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/overlay-search.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\overlay-search.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\ow-lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\ow-slider.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\scroll-effect.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\scroll-top.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\select.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\vendors\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\form\wp-content\themes\oceanwp\assets\js\vendors\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-content/uploads/2024/11/Сварю-на1ру-1024x464.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Сварю-на1ру-1024x464.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Сварю-на1ру-1536x696.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Сварю-на1ру-1536x696.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Сварю-на1ру-300x136.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Сварю-на1ру-300x136.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Сварю-на1ру-768x348.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Сварю-на1ру-768x348.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Сварю-на1ру.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Сварю-на1ру.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-1-34-1024x632.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-1-34-1024x632.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-1-34-1536x947.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-1-34-1536x947.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-1-34-2048x1263.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-1-34-2048x1263.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-1-34-300x185.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-1-34-300x185.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-1-34-768x474.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-1-34-768x474.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-2-9-1024x573.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-2-9-1024x573.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-2-9-1536x859.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-2-9-1536x859.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-2-9-2048x1145.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-2-9-2048x1145.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-2-9-300x168.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-2-9-300x168.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/Frame-2-9-768x429.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\Frame-2-9-768x429.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/image-5-1024x482.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\image-5-1024x482.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/image-5-1536x723.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\image-5-1536x723.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/image-5-300x141.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\image-5-300x141.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/image-5-768x362.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\image-5-768x362.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/image-5.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\image-5.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/my-site-1024x431.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\my-site-1024x431.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/my-site-1536x647.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\my-site-1536x647.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/my-site-300x126.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\my-site-300x126.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/my-site-768x323.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\my-site-768x323.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/2024/11/my-site.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\2024\11\my-site.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/elementor/css/post-20.css?ver=1732145592
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\elementor\css\post-20.css
+Content Type: text/css
+
+Uri: https://form/wp-content/uploads/elementor/css/post-22.css?ver=1732145611
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\elementor\css\post-22.css
+Content Type: text/css
+
+Uri: https://form/wp-content/uploads/elementor/css/post-24.css?ver=1732145614
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\elementor\css\post-24.css
+Content Type: text/css
+
+Uri: https://form/wp-content/uploads/elementor/css/post-26.css?ver=1732145612
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\elementor\css\post-26.css
+Content Type: text/css
+
+Uri: https://form/wp-content/uploads/elementor/css/post-7.css?ver=1732145591
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://form/wp-content/uploads/elementor/thumbs/Frame-1-34-qxapj1ku5tsgac6o0tsclzxn5wuvaawjyn47hgnfm0.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\elementor\thumbs\Frame-1-34-qxapj1ku5tsgac6o0tsclzxn5wuvaawjyn47hgnfm0.png
+Content Type: image/png
+
+Uri: https://form/wp-content/uploads/elementor/thumbs/Frame-2-9-qxaowgify4vfbmzowkc2773xbm6dc48qiut7d44z48.png
+File Name: C:\Downloaded Web Sites\form\wp-content\uploads\elementor\thumbs\Frame-2-9-qxaowgify4vfbmzowkc2773xbm6dc48qiut7d44z48.png
+Content Type: image/png
+
+Uri: https://form/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\form\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\form\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\form\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\form\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://form/wp-json/
+File Name: C:\Downloaded Web Sites\form\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://form/wp-json/oembed/1.0/embed?url=https:%2F%2Fform%2F
+File Name: C:\Downloaded Web Sites\form\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://form/wp-json/oembed/1.0/embed?url=https:%2F%2Fform%2F%25d0%25ba%25d0%25be%25d0%25bd%25d1%2582%25d0%25b0%25d0%25ba%25d1%2582%25d1%258b%2F
+File Name: C:\Downloaded Web Sites\form\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://form/wp-json/oembed/1.0/embed?url=https:%2F%2Fform%2F%25d0%25ba%25d0%25be%25d0%25bd%25d1%2582%25d0%25b0%25d0%25ba%25d1%2582%25d1%258b%2F&format=xml
+File Name: C:\Downloaded Web Sites\form\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://form/wp-json/oembed/1.0/embed?url=https:%2F%2Fform%2F%25d1%2583%25d1%2581%25d0%25bb%25d1%2583%25d0%25b3%25d0%25b8%2F
+File Name: C:\Downloaded Web Sites\form\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://form/wp-json/oembed/1.0/embed?url=https:%2F%2Fform%2F%25d1%2583%25d1%2581%25d0%25bb%25d1%2583%25d0%25b3%25d0%25b8%2F&format=xml
+File Name: C:\Downloaded Web Sites\form\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://form/wp-json/oembed/1.0/embed?url=https:%2F%2Fform%2F&format=xml
+File Name: C:\Downloaded Web Sites\form\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://form/wp-json/oembed/1.0/embed?url=https:%2F%2Fform%2Fgithub%2F
+File Name: C:\Downloaded Web Sites\form\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://form/wp-json/oembed/1.0/embed?url=https:%2F%2Fform%2Fgithub%2F&format=xml
+File Name: C:\Downloaded Web Sites\form\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://form/wp-json/wp/v2/pages/20
+File Name: C:\Downloaded Web Sites\form\wp-json\wp\v2\pages\20
+Content Type: application/json
+
+Uri: https://form/wp-json/wp/v2/pages/22
+File Name: C:\Downloaded Web Sites\form\wp-json\wp\v2\pages\22
+Content Type: application/json
+
+Uri: https://form/wp-json/wp/v2/pages/24
+File Name: C:\Downloaded Web Sites\form\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: https://form/wp-json/wp/v2/pages/26
+File Name: C:\Downloaded Web Sites\form\wp-json\wp\v2\pages\26
+Content Type: application/json
+
+Uri: https://form/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\form\xmlrpc.php
+Content Type: text/xml
+
